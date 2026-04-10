@@ -1,2 +1,4 @@
-# page_object_example
-Web testing using Page Object 
+Testing main and login page using Page Object method's.
+Locators.
+Switch between testing pages.
+Alert handling.
