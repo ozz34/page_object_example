@@ -1,4 +1,4 @@
-Testing main and login page using Page Object method's.  \n
+Testing main and login page using Page Object method's.  
 Locators.  
-Switch between testing pages.  \n
-Alert handling.  \n
+Switch between testing pages.  
+Alert handling.
